@@ -1,0 +1,8 @@
+{
+  "name": "ender-test",
+  "description": "a thing that sets color on elements",
+  "version": "1.0.0",
+  "authors": ["Dustin Diaz <@ded>"],
+  "main": "./colorizr.js",
+  "ender": "./ender.js"
+}
